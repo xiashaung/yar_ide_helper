@@ -1,0 +1,12 @@
+{
+  "name": "xiashuang/yar_ide_helper",
+  "description": "ide helper for yar",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "xiashuang",
+      "email": "996190264@qq.com"
+    }
+  ]
+}
